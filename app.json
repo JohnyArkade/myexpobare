@@ -1,10 +1,16 @@
 {
   "expo": {
     "name": "myexpobare",
-    "slug": "myexpobare",
+    "slug": "expobare",
     "version": "1.0.0",
     "assetBundlePatterns": [
       "**/*"
-    ]
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "c8270225-41b5-45e4-84b7-047ed618b014"
+      }
+    },
+    "owner": "johnyxu"
   }
 }
